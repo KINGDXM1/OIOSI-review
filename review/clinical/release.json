@@ -1,0 +1,10 @@
+{
+  "count": 217477,
+  "dimensions": 64,
+  "packs": 567,
+  "source": "https://doi.org/10.34970/2024-slice-3d-permissive",
+  "license": "CC-BY / CC-0 per image",
+  "method": "Otsu + colour histograms + rotation-uniform LBP + radial contour profiles",
+  "confirmation": "Not recorded in this snapshot; not assumed histopathology",
+  "input_sha256": "9797a9292b6057909733a08514f609a687dc94ba3fdb14e9a145bdc621a518f3"
+}
