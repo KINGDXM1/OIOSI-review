@@ -1,0 +1,6 @@
+{
+  "reference_count": 240,
+  "dimensions": 576,
+  "torch_onnx_max_absolute_error": 1.4826655387878418e-06,
+  "tested_reference_queries": 8
+}
