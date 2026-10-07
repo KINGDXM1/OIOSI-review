@@ -1,0 +1,16 @@
+{
+  "efficientnet-b4": {
+    "dimensions": 1792,
+    "input_side": 380,
+    "max_error": 1.9371509552001953e-07,
+    "index_seconds": 93.66615000995807,
+    "onnx_sha256": "9fda2018f35219517f022e6f3dd733932c5da7112005f902b284680d815d8252"
+  },
+  "mobilenet-same-bank": {
+    "dimensions": 576,
+    "input_side": 224,
+    "max_error": 6.705522537231445e-07,
+    "index_seconds": 6.80852351593785,
+    "onnx_sha256": "fd3d5d0e0157379da143c1a8ca298e9c12a34a57b1c84a4680cd0e2b9e6abbdc"
+  }
+}
